@@ -1,0 +1,26 @@
+########################################################################
+# Deep‑Learning Individual Project  ——  Package Requirements           #
+# Programmer : Yu Du                                                   #
+# Date : May 4, 2025                                                   #
+#                                                                      #
+# Other versions have not been tested, nor have higher versions been   #
+# verified to be backward compatible, so if errors occur when using    #
+# a higher version, please use the required version completely.        #
+#                                                                      #
+########## Basic runtime ###############################################
+# --- Python Environment ---                                           #
+# conda==24.11.3 or python_version==3.12.2                             #
+#                                                                      #
+# --- TensorFlow ---                                                   #
+# If it is a MacOS environment, the official tensorflow-macos version  #
+# is available for use. No matter which version you use, it only needs #
+# to meet this requirement.                                            #
+# tensorflow==2.16.2                                                   #
+#                                                                      #
+########## Data Processing / Visualization #############################
+# numpy==1.26.4                                                        #
+# scikit-learn==1.5.1                                                  #
+# matplotlib==3.9.2                                                    #
+#                                                                      #
+########################################################################
+
