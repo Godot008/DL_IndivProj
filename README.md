@@ -3,6 +3,7 @@
 [![Python](https://img.shields.io/badge/python-3.12%2B-blue.svg)](#)
 
 > This project is a program for GTZAN audio genre classification based on the modern Transformer architecture.
+> 
 > **Deep Learning**, **Transformer**, **Genre Classification**
 
 ---
@@ -66,9 +67,8 @@ dl_individual_project/
         │  │  └─ gtzan_audio_classifier_model.py
         │  └─ main.py       # Program execution entry
         ├─ outputs/         # Model parameter file storage directory
-        │  ├─ ...
-        │  └─ gtzan_audio_classifier_model_1746346125.weights.h5
-        ├─ report.pdf
+        │  ├─ e.g. gtzan_audio_classifier_model_1746346125.weights.h5
+        │  └─ ...
         ├─ requirements.txt
         └─ README.md
 ```
