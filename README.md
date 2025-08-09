@@ -8,6 +8,10 @@
 
 ---
 
+## Project Objective
+
+This individual project will examine ability to apply deep learning learning architectures and address challenges relating to complex, real world problems.
+
 ## Quick Start
 
 This project is built in an IDE environment (PyCharm CE), so the most recommended method is to import the project (project directory structure) directly into the IDE environment and then run it. You can also try to run the project program through the following terminal command, but it has not been tested yet (incorrect internal package references may occur):
