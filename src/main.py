@@ -21,10 +21,8 @@ import tensorflow as tf
 import matplotlib.pyplot as plt
 from pathlib import Path                # For obtaining the current system location during testing
 
-from data import wav_dataset_loader
-from data import audio_preprocessor
-from utils import gtzan_audio_classifier_model
-from utils import data_processor_model
+from data import wav_dataset_loader, audio_preprocessor
+from utils import data_processor_model, gtzan_audio_classifier_model
 
 
 def main(timestamp=None):
