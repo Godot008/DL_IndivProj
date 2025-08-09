@@ -14,7 +14,7 @@ This individual project will demonstrate an ability to apply deep learning learn
 
 ## Quick Start
 
-This project is built in an IDE environment (PyCharm CE), so the most recommended method is to import the project (project directory structure) directly into the IDE environment and then run it. You can also try to run the project program through the following terminal command, but it has not been tested yet (incorrect internal package references may occur):
+This project is built in an IDE environment (PyCharm CE), so the most recommended method is to import the project (project directory structure) directly into the IDE environment and then run it. You can also try to run the project program through the following terminal command, but it has not been tested yet:
 
 ```bash
 (base) user@device dl_individual_project % python src/main.py
