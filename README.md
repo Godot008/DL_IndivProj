@@ -10,7 +10,7 @@
 
 ## Project Objective
 
-This individual project will examine ability to apply deep learning learning architectures and address challenges relating to complex, real world problems.
+This individual project will demonstrate an ability to apply deep learning learning architectures and address challenges relating to complex, real world problems.
 
 ## Quick Start
 
