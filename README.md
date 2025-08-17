@@ -1,4 +1,4 @@
-# Deep‑Learning Individual Project  ——  README
+# Deep‑Learning Individual Project
 
 [![Python](https://img.shields.io/badge/python-3.12%2B-blue.svg)](#)
 
