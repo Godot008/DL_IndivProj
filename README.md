@@ -10,7 +10,14 @@
 
 ## Project Objective
 
-This individual project will demonstrate an ability to apply deep learning learning architectures and address challenges relating to complex, real world problems.
+The objective of this project is to apply deep learning techniques to a real-world dataset and evaluate their effectiveness in solving a complex classification problem. Following the COMP47650 Deep Learning project requirements, the work involves:
+- Selecting and preprocessing a dataset from the assigned category -- GTZAN dataset.
+- Implementing and comparing baseline and advanced deep learning models using PyTorch/TensorFlow.
+- Performing hyperparameter tuning, model optimization, and reproducibility checks.
+- Evaluating performance with appropriate metrics and analyzing results against baselines.
+- Reporting findings in a NeurIPS-style paper and presenting insights through a concise video walkthrough.
+
+This project demonstrates both practical implementation skills and critical evaluation of deep learning approaches in addressing real-world challenges.
 
 ## Quick Start
 
