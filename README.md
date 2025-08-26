@@ -4,7 +4,7 @@
 
 > This project is a program for GTZAN audio genre classification based on the modern Transformer architecture.
 > 
-> **Deep Learning**, **Transformer**, **Genre Classification**
+> **Deep Learning**, **Transformer**, **Music Genre Classification**
 
 ---
 
