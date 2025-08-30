@@ -81,6 +81,7 @@ dl_individual_project/
         │  ├─ e.g. gtzan_audio_classifier_model_1746346125.weights.h5
         │  └─ ...
         ├─ requirements.txt
+        ├─ LICENSE          # This project employs a custom licence; for details, see LICENCE
         └─ README.md
 ```
 
