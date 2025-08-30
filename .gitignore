@@ -1,0 +1,140 @@
+# -------------------------
+# OS / Editor junk files
+# -------------------------
+## System files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+## Visual Studio Code
+#  Visual Studio Code specific template is maintained in a separate VisualStudioCode.gitignore 
+#  that can be found at https://github.com/github/gitignore/blob/main/Global/VisualStudioCode.gitignore
+#  and can be added to the global gitignore or merged into this file. However, if you prefer, 
+#  you could uncomment the following to ignore the entire vscode folder
+.vscode/
+
+## PyCharm
+#  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
+#  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
+#  and can be added to the global gitignore or merged into this file.  For a more nuclear
+#  option (not recommended) you can uncomment the following to ignore the entire idea folder.
+.idea/
+
+# -------------------------
+# Python / Jupyter Notebook
+# -------------------------
+## Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[codz]
+*$py.class
+
+## Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+wheels/
+
+## Virtual environments / dependency managers
+.venv/
+venv/
+.env/
+env/
+ENV/
+pip-wheel-metadata/
+.python-version
+.poetry/
+.poetry_cache/
+pip-cache/
+.cache/
+
+## Test / type-checking cache
+.pytest_cache/
+.mypy_cache/
+.pyre/
+.pytype/
+coverage.xml
+htmlcov/
+.coverage*
+.tox/
+
+# Logs / temp files
+*.log
+*.tmp
+
+## Jupyter Notebook
+.ipynb_checkpoints/
+# (Optional) You may also want to clear notebook outputs before commit
+
+# -------------------------
+# Quarto / R Markdown / R
+# -------------------------
+## Quarto build artifacts
+_quarto.yml~
+.quarto/
+_site/
+_freeze/
+
+## knitr / rmarkdown temporary & cache files
+*_cache/
+cache/
+figure/
+*_files/
+
+## R session / history
+.Rhistory
+.RData
+.Ruserdata
+.Rapp.history
+.Rproj.user/
+
+## R dependency managers
+renv/library/
+renv/staging/
+packrat/
+.Renviron
+renv.lock
+
+# -------------------------
+# LaTeX
+# -------------------------
+## Core latex/pdflatex auxiliary files:
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+.*.lb
+
+# Uncomment the next line if you don’t want final PDFs in repo
+# *.pdf
+
+## Bibliography auxiliary files (bibtex/biblatex/biber):
+*.bbl
+*.bbl-SAVE-ERROR
+*.bcf
+*.bcf-SAVE-ERROR
+*.blg
+*-blx.aux
+*-blx.bib
+*.run.xml
+
+## Build tool auxiliary files:
+*.fdb_latexmk
+*.synctex
+*.synctex(busy)
+*.synctex.gz
+*.synctex.gz(busy)
+*.pdfsync
+*.rubbercache
+rubber.cache
+
+## Build tool directories for auxiliary files
+# latexrun
+latex.out/
